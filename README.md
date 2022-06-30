@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillamSun
-- 👀 I’m interested in C#;C++;vmware
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ... Nope yet
+- 👀 I’m interested in `C#`;`C++`;`VM`
+- 🌱 I’m currently learning `Python`
+- 💞️ I’m looking to collaborate on ... ***Nope yet***
 - 📫 My email: willian_sun@163.com OR willian_sun@outlook.com
 
 <!---
