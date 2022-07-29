@@ -4,12 +4,12 @@
   
 ![Followers](https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000)
   
-👋 Hi,my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visit my profile! I’m @WillamSun **~~(I spelt it wrong... It should be WilliamSun....)~~**  
+👋 Hi,my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visit my profile! I’m @WillamSun ***~~(I spelt it wrong... It should be WilliamSun....)~~***  
   
 > I create this account
 > I created this account because of I need a space to place files on cloud, and it also upload my project that I want to share with you guys.  
   
-📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I spelt it wrong when I registered my email...)~~***  
+📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I also spelt it wrong when I registered my email...)~~***  
   
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
   
