@@ -1,6 +1,6 @@
 # WillamSun's or IdadWind's profile!
 ---
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLint(%22Welcome!%22);Debug.Print+%22You+are+the+best!%22;print(%22Happy+Forever!%22);printf(%22You+can+do+it!%22);echo+%22Don't+be+sad!%22;MsgBox(%22Keep+it!%22%2CvbOK);printf+%22Good+luck!%5Cn%22;Have+a+good+day!!)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLint(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);printf+%22Welcome!%5Cn%22;Have+A+Good+Day!!)](https://git.io/typing-svg)
   
 ![Followers](https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000)
   
