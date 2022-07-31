@@ -1,8 +1,6 @@
 # WillamSun's or IdadWind's profile!
 ---
-  
-<center>[English](https://github.com/WillamSun/WillamSun/README.md) | Chinese</center>  
-
+<p align="center"><a href="https://github.com/WillamSun/WillamSun/blob/main/README.md">English</a> | 中文</p>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLint(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)
   
 ![Followers](https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000)
