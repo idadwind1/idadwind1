@@ -25,8 +25,9 @@ This is my **most used languages**:
   
 My **stats**:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillamSun&theme=merko)
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WillamSun)](https://git.io/streak-stats)
+
+**Streak**:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WillamSun&theme=soft-green&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <!---
 WillamSun/WillamSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
