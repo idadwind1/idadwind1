@@ -20,8 +20,11 @@ I can...
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
+:musical_note: My **favorite music**:
+
+  
 This is my **most used languages**:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
   
 My **stats**:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillamSun&theme=merko)
