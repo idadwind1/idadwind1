@@ -2,7 +2,7 @@
 ---
 <p align="center"><a href="https://github.com/WillamSun/WillamSun/blob/main/README.md">English</a> | 中文</p>  
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLint(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00B7C3&lines=Console.WriteLint(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);Debug.Print+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;print(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);printf(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);echo+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;MsgBox(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22%2CvbOK);MessageBox.Show(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);%E7%A5%9D%E4%BD%A0%E6%8B%A5%E6%9C%89%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%81)](https://git.io/typing-svg)
   
 ![Followers](https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000)
   
