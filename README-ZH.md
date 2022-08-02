@@ -34,6 +34,9 @@ Never Gonna Give You Up
 
 我的**贡献**:  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WillamSun&theme=merko&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
+
+My **trophy**:  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WillamSun&theme=darkhub)
 <!---
 WillamSun/WillamSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
