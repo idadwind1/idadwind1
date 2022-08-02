@@ -37,7 +37,7 @@ My **stats**:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WillamSun&theme=merko&hide_border=false&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 My **trophy**:  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WillamSun&column=8&theme=gruvbox)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WillamSun&theme=darkhub
 <!---
 WillamSun/WillamSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
