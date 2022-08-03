@@ -37,6 +37,9 @@ Never Gonna Give You Up
 
 我的**奖杯**:  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WillamSun&theme=darkhub)
+  
+My **Activity graph**: 
+!github activity graph](https://activity-graph.herokuapp.com/graph?username=Willam&theme=github) 
 <!---
 WillamSun/WillamSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
