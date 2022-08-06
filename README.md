@@ -10,6 +10,7 @@
 👋 Hi,my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visit my profile! I’m @WillamSun ***~~(I spelt it wrong... It should be WilliamSun....)~~***, you can also call me **Idad Wind(Nick name)**  
   
 > I created this account because of I need a space to place files on cloud, and it also upload my project that I want to share with you guys.  
+> Actually, I create an account before, but I forgot password, and I fill in the wrong email, so that account doesn't work... Fortunately it does not has any repository. [Click here to visit that account](https://github.com/IdadWind)
   
 📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I also spelt it wrong when I registered my email...)~~***  
   
