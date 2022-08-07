@@ -26,7 +26,7 @@ I can...
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
 :musical_note: My **favorite music**:
-
+Never Gonna Give You Up
   
 This is my **most used languages**:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
