@@ -25,7 +25,7 @@ I can...
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
-:musical_note: My **favorite music**:
+:musical_note: My **favorite music**:  
 Never Gonna Give You Up
   
 This is my **most used languages**:  
