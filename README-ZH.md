@@ -12,7 +12,7 @@
 > 我创建这个号的原因是因为我需要一个存储文件的云端，Github是不错的选择，可以随时写代码，第二个原因是因为我想将我的代码分享给大家，Github依然是个不错的选择 *~~(其实就是用来玩的)~~*  
 > 其实我之前创建过一个账号，不过我把密码忘了，还把恢复邮箱填成别人的了，最后那个账号废了。。。 幸好哪个账号连个存储库都没有，[点击这里查看那个账号](https://github.com/IdadWind)
  
-📫 我的邮箱：willian_sun@163.com **而不是** william_sun@163.com  ***~~(我注册邮箱时又打错了。。。)~~***  
+📫 我的邮箱：willian_sun@163.com **而不是** william_sun@163.com  ***~~(我注册邮箱时又打错了。。。)~~*** 还有IdadWind@gmail.com也是我的邮箱  
   
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072910825254) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
