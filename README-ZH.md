@@ -1,11 +1,12 @@
 # WillamSun's 或 IdadWind's 个人资料！
 ---
 <p align="center"><a href="https://github.com/WillamSun/WillamSun/blob/main/README.md">English</a> | 中文</p>  
+  
+<div align="center"><img src="https://user-images.githubusercontent.com/89760671/184779096-7d6c1ccb-6460-4055-acb2-9a38e53dabfa.gif" width="238" height="140" alt="Nyan Cat"></img></div>  
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00B7C3&lines=Console.WriteLint(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);Debug.Print+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;print(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);printf(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);echo+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;MsgBox(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22%2CvbOK);MessageBox.Show(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);%E7%A5%9D%E4%BD%A0%E6%8B%A5%E6%9C%89%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%81)](https://git.io/typing-svg)
+<div align="center"><img src="https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000"></img></div>
   
-![Followers](https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000)
-  
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00B7C3&lines=Console.WriteLint(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);Debug.Print+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;print(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);printf(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);echo+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;MsgBox(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22%2CvbOK);MessageBox.Show(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);%E7%A5%9D%E4%BD%A0%E6%8B%A5%E6%9C%89%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%81)](https://git.io/typing-svg)  
 👋 你好，我的第![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)位访问者！谢谢访问我的个人资料！我是 @WillamSun ***~~(我创号的时候搞错了。。。应该是WilliamSun)~~**，你也可以叫我**Idad Wind(网名)**  
   
 > 我创建这个号的原因是因为我需要一个存储文件的云端，Github是不错的选择，可以随时写代码，第二个原因是因为我想将我的代码分享给大家，Github依然是个不错的选择 *~~(其实就是用来玩的)~~*  
