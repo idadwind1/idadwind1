@@ -13,7 +13,7 @@
 > I created this account because I need a space to place files on cloud, and it also upload my project that I want to share with you guys. ***~~(Actually, this account is just for fun)~~***  
 > Actually, I create an account before, but I forgot password, and I fill in the wrong email, so that account doesn't work... Fortunately it doesn't have any repository, [Click here to visit that account](https://github.com/IdadWind)
   
-📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I also spelt it wrong when I registered my email...)~~***  
+📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I also spelt it wrong when I registered my email...)~~*** and IdadWind@gmail.com  
   
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072910825254) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -28,7 +28,7 @@ I can...
   
 :musical_note: My **favorite music**:  
 Never Gonna Give You Up
-
+  
 This is my **most used languages**:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
   
