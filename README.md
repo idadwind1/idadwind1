@@ -8,7 +8,7 @@
   
 <div align="center"><img src="https://user-images.githubusercontent.com/89760671/184779096-7d6c1ccb-6460-4055-acb2-9a38e53dabfa.gif" width="238" height="140" alt="Nyan Cat"></img></div>  
 
-![Followers](https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000)
+<div align="center"><img src="https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000"></img></div>
   
 👋 Hi there, my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visit my profile! I’m @WillamSun ***~~(I spelt it wrong... It should be WilliamSun....)~~***, you can also call me **Idad Wind(Nick name)**  
   
