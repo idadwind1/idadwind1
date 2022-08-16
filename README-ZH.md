@@ -31,7 +31,7 @@ Never Gonna Give You Up
 这是我**最常用的语言**:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
   
-我的**stats**:  
+我的**Stats**:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillamSun&theme=merko)
 
 我的**贡献**:  
