@@ -32,7 +32,7 @@ Never Gonna Give You Up
 This is my **most used languages**:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
   
-My **stats**:  
+My **Stats**:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillamSun&theme=merko)
 
 **Streak**:  
