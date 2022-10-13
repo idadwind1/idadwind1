@@ -1,6 +1,6 @@
-# WillamSun's 或 IdadWind's 个人资料！
+# WillamSun 或 IdadWind 的个人资料！
 ---
-<p align="center"><a href="https://github.com/WillamSun/WillamSun/blob/main/README.md">English</a> | 中文</p>  
+<p align="center"><a href="README.md">English</a> | 中文</p>  
   
 <div align="center"><img src="https://user-images.githubusercontent.com/89760671/184779096-7d6c1ccb-6460-4055-acb2-9a38e53dabfa.gif" width="238" height="140" alt="Nyan Cat"></img></div>  
 
