@@ -1,7 +1,7 @@
 # WillamSun's or IdadWind's profile!
 ---
   
-<p align="center">English | <a href="https://github.com/WillamSun/WillamSun/blob/main/README-ZH.md">中文</a></p>
+<p align="center">English | <a href="README-ZH.md">中文</a></p>
   
 <div align="center"><img src="https://user-images.githubusercontent.com/89760671/184779096-7d6c1ccb-6460-4055-acb2-9a38e53dabfa.gif" width="238" height="140" alt="Nyan Cat"></img></div>  
 
