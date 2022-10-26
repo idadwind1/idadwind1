@@ -28,7 +28,7 @@ I can...
   
 :musical_note: My **favorite music**:  
 ***Never Gonna Give You Up***  
-  ![NGGYU](https://user-images.githubusercontent.com/89760671/189050317-fe5f5fb8-bfd6-4014-9a67-d694e0e3c3f4.gif)
+  [![NGGYU](https://user-images.githubusercontent.com/89760671/189050317-fe5f5fb8-bfd6-4014-9a67-d694e0e3c3f4.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 This is my **most used languages**:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
