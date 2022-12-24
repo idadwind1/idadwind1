@@ -27,7 +27,7 @@ I can...
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
 :musical_note: My **favorite music**:  
-***Never Gonna Give You Up***  
+[***Never Gonna Give You Up***](nggyu.md)  
   [![NGGYU](https://user-images.githubusercontent.com/89760671/189050317-fe5f5fb8-bfd6-4014-9a67-d694e0e3c3f4.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 This is my **most used languages**:  
