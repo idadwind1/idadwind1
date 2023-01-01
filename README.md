@@ -8,12 +8,12 @@
 <div align="center"><img src="https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000"></img></div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLint(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)  
-👋 Hi there, my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visit my profile! I’m @WillamSun ***~~(I spelt it wrong... It should be WilliamSun....)~~***, you can also call me **Idad Wind(Nick name)**  
+👋 Hi there, my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visiting my profile! I’m @WillamSun ***~~(I spelled it wrong... It should be WilliamSun....)~~***, you can also call me **Idad Wind(Nickname)**  
   
-> I created this account because I need a space to place files on cloud, and it also upload my project that I want to share with you guys. ***~~(Actually, this account is just for fun)~~***  
-> Actually, I created an account before, but I forgot password, and I fill in the wrong email, so that account doesn't work... Fortunately it doesn't have any repository, [Click here to visit that account](https://github.com/IdadWind)
+> I created this account because I need a space to place files on the cloud, and it also uploads my project that I want to share with you guys. ***~~(Actually, this account is just for fun)~~***  
+> Actually, I created an account before, but I forgot the password, and I fill in the wrong email, so that account doesn't work... Fortunately, it doesn't have any repository, [Click here to visit that account](https://github.com/IdadWind)
   
-📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I also spelt it wrong when I registered my email...)~~*** and IdadWind@gmail.com is also my email  
+📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I also spelled it wrong when I registered my email...)~~*** and IdadWind@gmail.com is also my email  
   
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072910825254) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -30,7 +30,7 @@ I can...
 [***Never Gonna Give You Up***](nggyu.md)  
   [![NGGYU](https://user-images.githubusercontent.com/89760671/189050317-fe5f5fb8-bfd6-4014-9a67-d694e0e3c3f4.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-This is my **most used languages**:  
+This is my **most used language**:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
   
 My **Stats**:  
@@ -46,7 +46,7 @@ My **Activity graph**:
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Willam&theme=github)  
   
   
-Vistors are coming from:  
+Visitors are coming from:  
 <a href="https://info.flagcounter.com/xVB5"><img src="https://s11.flagcounter.com/count2/xVB5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>  
 <!---
 WillamSun/WillamSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
