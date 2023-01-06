@@ -22,9 +22,11 @@
   
 I can...  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-1E05A?style=for-the-badge&logo=javascript&logoColor=white)
   
 :musical_note: My **favorite music**:  
 [***Never Gonna Give You Up***](nggyu.md)  
