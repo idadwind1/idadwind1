@@ -26,7 +26,8 @@ I can...
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-1E05A?style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=shell&logoColor=black)
   
 :musical_note: My **favorite music**:  
 [***Never Gonna Give You Up***](nggyu.md)  
