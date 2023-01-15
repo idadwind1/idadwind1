@@ -42,7 +42,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WillamSun&theme=darkhub)
   
 我的**行动轨迹**:  
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Willam&theme=github) 
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=WillamSun&theme=github) 
   
   
 访问者都来自:  
