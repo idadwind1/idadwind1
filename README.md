@@ -46,7 +46,7 @@ My **trophy**:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WillamSun&theme=darkhub)  
   
 My **Activity graph**:  
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Willam&theme=github)  
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=WillamSun&theme=github)  
   
   
 Visitors are coming from:  
