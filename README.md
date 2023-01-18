@@ -21,8 +21,8 @@ string[] Iam = new string[12]{
     "A player of Minecraft, Genshin Impact, Among Us, Blue Archive, Undertale, Phigros, Terraria, and other games on my Steam account",
     "A person who owns hundreds of accounts",
     "A living male Carbon-based higher creature called a human",
-    "Speaking in Chinese and English very well",
-    "Living on a planet called Earth located in the Solar system"
+    "Speak in Chinese and English very well",
+    "Live on a planet called Earth located in the Solar system"
 };
 ```
 > I created this account because I need a space to place files on the cloud, and it also uploads my project that I want to share with you guys. ***~~(Actually, this account is just for fun)~~***  
