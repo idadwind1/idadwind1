@@ -9,7 +9,22 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLint(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)  
 👋 Hi there, my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visiting my profile! I’m @WillamSun ***~~(I spelled it wrong... It should be WilliamSun....)~~***, you can also call me **Idad Wind(Nickname)**  
-  
+```csharp
+string[] Iam = new string[12]{
+    "A multi-language developer",
+    "A Chinese",
+    "A Linux user",
+    "A student",
+    "A man of confidence",
+    "An unbeliever",
+    "A Loli complex",
+    "A player of Minecraft, Genshin Impact, Among Us, Blue Archive, Undertale, Phigros, Terraria, and other games on my Steam account",
+    "A person who owns hundreds of accounts",
+    "A living male Carbon-based higher creature called a human",
+    "Speaking in Chinese and English very well",
+    "Living on a planet called Earth located in the Solar system"
+};
+```
 > I created this account because I need a space to place files on the cloud, and it also uploads my project that I want to share with you guys. ***~~(Actually, this account is just for fun)~~***  
 > Actually, I created an account before, but I forgot the password, and I fill in the wrong email, so that account doesn't work... Fortunately, it doesn't have any repository, [Click here to visit that account](https://github.com/IdadWind)
   
