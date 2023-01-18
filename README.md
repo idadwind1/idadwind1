@@ -17,7 +17,7 @@ string[] Iam = new string[12]{
     "A student",
     "A man of confidence",
     "An unbeliever",
-    "A Loli complex",
+    "A \"loli\" complex",
     "A player of Minecraft, Genshin Impact, Among Us, Blue Archive, Undertale, Phigros, Terraria, and other games on my Steam account",
     "A person who owns hundreds of accounts",
     "A living male Carbon-based higher creature called a human",
