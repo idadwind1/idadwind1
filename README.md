@@ -10,7 +10,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLint(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)  
 👋 Hi there, my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visiting my profile! I’m @WillamSun ***~~(I spelled it wrong... It should be WilliamSun....)~~***, you can also call me **Idad Wind(Nickname)**  
 ```csharp
-string[] Iam = new string[12]{
+string[] me = new string[12]{
     "A multi-language developer",
     "A Chinese",
     "A Linux user",
