@@ -15,11 +15,9 @@ string[] me = new string[12]{
     "A Chinese",
     "A Linux user",
     "A student",
-    "An unbeliever",
-    "A \"loli complex\"",
-    "A person who owns hundreds of accounts",
-    "A living male Carbon-based higher creature called a human",
     "Speak in Chinese and English very well",
+    "A person who had signed up for hundreds of different accounts",
+    "A living male Carbon-based higher creature called a human",
     "Live on a planet called Earth located in the Solar system"
 };
 ```
