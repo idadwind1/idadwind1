@@ -1,5 +1,5 @@
 # Never Gonna Give You Up
-**Rick Astley**  
+**Rick Astley**
   
 *We're no strangers to love  
 You know the rules and so do I  
