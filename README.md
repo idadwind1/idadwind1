@@ -13,7 +13,7 @@
 string[] me = new string[12]{
     "A multi-language developer",
     "A Chinese",
-    "A Linux user",
+    "A \"Linux\" user",
     "A student",
     "Speak in Chinese and English very well",
     "A person who had signed up for hundreds of different accounts",
