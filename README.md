@@ -21,11 +21,20 @@ string[] me = new string[12]{
     "Live on a planet called Earth located in the Solar system"
 };
 ```
-> I created this account because I need a space to place files on the cloud, and it also uploads my project that I want to share with you guys. ***~~(Actually, this account is just for fun)~~***  
-> Actually, I created an account before, but I forgot the password, and I fill in the wrong email, so that account doesn't work... Fortunately, it doesn't have any repository, [Click here to visit that account](https://github.com/IdadWind)
+> This account is for me to upload useless and fun projects coded in leisure time. 
+> Some repos may have some unformed habits, or non-sense English grammar and misspelled vocab. 
+> That's because they are made when I was young and my coding skills and English isn't very well. 
+> This account was supposed to be @IdadWind. 
+> I did created that account before, 
+> but the password seems to be misspelled, 
+> and looks like I also messed up with the email. 
+> So that's why this account exists. 
+> Fortunately, the former account have not had a repo yet. 
+> You can [click here to visit that account](https://github.com/IdadWind).
   
-📫 My email: willian_sun@163.com **NOR** william_sun@163.com  ***~~(I also spelled it wrong when I registered my email...)~~*** and IdadWind@gmail.com is also my email  
-  
+📫 My email: 
+IdadWind@gmail.com is my main email. Also use 
+willian_sun@163.com **NOR** william_sun@163.com  ***~~(also misspelled when registering my email...)~~***
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072910825254) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
   
