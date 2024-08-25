@@ -1,4 +1,4 @@
-# WillamSun 或 IdadWind 的个人资料！
+# IdadWind 的个人资料！
 ---
 <p align="center"><a href="README.md">English</a> | 中文</p>  
   
@@ -7,7 +7,7 @@
 <div align="center"><img src="https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000"></img></div>
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00B7C3&lines=Console.WriteLint(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);Debug.Print+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;print(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);printf(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);echo+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;MsgBox(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22%2CvbOK);MessageBox.Show(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);%E7%A5%9D%E4%BD%A0%E6%8B%A5%E6%9C%89%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%81)](https://git.io/typing-svg)  
-👋 你好，我的第![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)位访问者！谢谢访问我的个人资料！我是 @WillamSun ***~~(我创号的时候搞错了。。。应该是WilliamSun)~~**，你也可以叫我 **Idad Wind(网名)**  
+👋 你好，我的第![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)位访问者！谢谢访问我的个人资料！我是**Idad Wind**  
 ```csharp
 string[] 我 = new string[12]{
     "会多门语言的开发者",
@@ -23,7 +23,8 @@ string[] 我 = new string[12]{
 > 我创建这个号的原因是因为我需要一个存储文件的云端，Github是不错的选择，可以随时写代码，第二个原因是因为我想将我的代码分享给大家，Github依然是个不错的选择 *~~(其实就是用来玩的)~~*  
 > 其实我之前创建过一个账号，不过我把密码忘了，还把恢复邮箱填成别人的了，最后那个账号废了。。。 幸好哪个账号连个存储库都没有，[点击这里查看那个账号](https://github.com/IdadWind)
  
-📫 我的邮箱：willian_sun@163.com **而不是** william_sun@163.com  ***~~(我注册邮箱时又打错了。。。)~~*** 还有IdadWind@gmail.com也是我的邮箱  
+📫 我的邮箱：
+dadWind@gmail.com
   
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072910825254) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
