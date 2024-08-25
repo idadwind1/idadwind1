@@ -5,7 +5,7 @@
   
 <div align="center"><img src="https://user-images.githubusercontent.com/89760671/184779096-7d6c1ccb-6460-4055-acb2-9a38e53dabfa.gif" width="238" height="140" alt="Nyan Cat"></div>  
 
-<div align="center"><img src="https://img.shields.io/github/followers/WillamSun.svg?style=social&label=Follow&maxAge=2592000"></div>
+<div align="center"><img src="https://img.shields.io/github/followers/idadwind1.svg?style=social&label=Follow&maxAge=2592000"></div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLine(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)  
 👋 Hi there, my ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) visitor! Thanks for visiting my profile! I’m **Idad Wind**  
