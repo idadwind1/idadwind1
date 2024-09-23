@@ -45,24 +45,24 @@ dadWind@gmail.com
   [![NGGYU](https://user-images.githubusercontent.com/89760671/189050317-fe5f5fb8-bfd6-4014-9a67-d694e0e3c3f4.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
 这是我**最常用的语言**:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillamSun&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idadwind1&layout=compact&theme=merko)
   
 我的**Stats**:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillamSun&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idadwind1&theme=merko)
 
 我的**贡献**:  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WillamSun&theme=merko&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=idadwind1&theme=merko&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
 
 我的**奖杯**:  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=WillamSun&theme=darkhub)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=idadwind1&theme=darkhub)
   
 我的**行动轨迹**:  
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=WillamSun&theme=github) 
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=idadwind1&theme=github) 
   
   
 访问者都来自:  
 <a href="https://info.flagcounter.com/xVB5"><img src="https://s11.flagcounter.com/count2/xVB5/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>  
 <!---
-WillamSun/WillamSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+idadwind1/idadwind1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
