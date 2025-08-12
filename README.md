@@ -9,6 +9,9 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLine(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)  
 nerdy counter: ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) 
+appearently its not working anymore ;( the sevice was ended in july 2025  
+its like a few k visits previously  
+too bad it stopped servicing i had been using it for years 😭
 
 ```csharp
 string[] me = new string[8]{
@@ -23,8 +26,8 @@ string[] me = new string[8]{
 };
 ```
 
-> u might wonder why would i add an 1 after my github name. well believe it or not i forgot the password for the previous acc i created (which doesnt have this 1) and i am not able to recover its password cus i entered the wrong email when registering (ik im so fuckin dumb sometimes)
-> [here it is](https://github.com/IdadWind).
+> u might wonder why would i add an 1 after my github name. well believe it or not i had actually created one without this 1 but i forgot its password and i am not able to recover it cus i entered the wrong email when registering (ik im so fuckin dumb sometimes)
+> [here it is](https://github.com/IdadWind)
   
 ### My email:   
 ■■■■■■■■■■■@gmail.com  
