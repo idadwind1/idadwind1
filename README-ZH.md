@@ -9,7 +9,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=00B7C3&lines=Console.WriteLint(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);Debug.Print+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;print(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);printf(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);echo+%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22;MsgBox(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22%2CvbOK);MessageBox.Show(%22%E6%AC%A2%E8%BF%8E%EF%BC%81%22);%E7%A5%9D%E4%BD%A0%E6%8B%A5%E6%9C%89%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%81)](https://git.io/typing-svg)  
 👋 你好，我的第![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)位访问者！谢谢访问我的个人资料！我是**Idad Wind**  
 ```csharp
-string[] 我 = new string[12]{
+string[] 我 = new string[8]{
     "会多门语言的开发者",
     "中国人",
     "\"Linux\"用户",
