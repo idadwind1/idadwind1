@@ -11,7 +11,7 @@
 计数器：
 ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)  
 很明显计数器没用了😭😭，计数器的提供商在2025年7月停止服务了，我记得之前是几千的访问  
-用了好几年的说没了就没了www
+用了好几年的说没了就没了的说www
 
 ```csharp
 string[] me = new string[8]{
