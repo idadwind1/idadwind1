@@ -50,6 +50,8 @@ i fw...
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F1E05A?style=flat&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=shell&logoColor=black)
+its a bit outdated i now also write in java and rust and a lot other fun languages  
+i should provably get this changed another day
 
 ### favorite music
 top 10 would be:
