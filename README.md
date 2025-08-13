@@ -15,7 +15,7 @@ too bad it stopped servicing i had been using it for years 😭
 
 ```csharp
 string[] me = new string[8]{
-    "multi-language developer",
+    "multilingual developer",
     "\"linux\" user",
     "i use arch btw :3 (and ofc hyprland",
     "vocaloid listener (based music fr)",
