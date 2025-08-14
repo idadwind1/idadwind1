@@ -11,8 +11,7 @@
 nerdy counter:  
 ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)   
 appearently its not working anymore ;( the sevice was ended in july 2025  
-its like a few k visits previously  
-too bad it stopped servicing i had been using it for years 😭
+its like a few k visits previously
 
 nerdy counter alt:  
 <img src="https://profile-counter.deno.dev/idadwind1/count.svg" alt="idadwind :: Visitor's Count" />
