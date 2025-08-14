@@ -8,11 +8,14 @@
 <div align="center"><img src="https://img.shields.io/github/followers/idadwind1.svg?style=social&label=Follow&maxAge=2592000"></div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLine(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)  
-nerdy counter: ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) 
+nerdy counter:  
+![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg) 
 appearently its not working anymore ;( the sevice was ended in july 2025  
 its like a few k visits previously  
 too bad it stopped servicing i had been using it for years 😭
-nerdy counter alt: ![Visitor Count](https://profile-counter.glitch.me/idadwind/count.svg) 
+
+nerdy counter alt:  
+![Visitor Count](https://profile-counter.glitch.me/idadwind/count.svg) 
 
 ```csharp
 string[] me = new string[8]{
