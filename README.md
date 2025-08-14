@@ -15,7 +15,7 @@ its like a few k visits previously
 too bad it stopped servicing i had been using it for years 😭
 
 nerdy counter alt:  
-<img src="https://profile-counter.deno.dev/idadwind1/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/idadwind1/count.svg" alt="idadwind :: Visitor's Count" />
 
 ```csharp
 string[] me = new string[8]{
