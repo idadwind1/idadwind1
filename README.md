@@ -12,6 +12,7 @@ nerdy counter: ![Visitor Count](https://profile-counter.glitch.me/WillamSun/coun
 appearently its not working anymore ;( the sevice was ended in july 2025  
 its like a few k visits previously  
 too bad it stopped servicing i had been using it for years 😭
+nerdy counter alt: ![Visitor Count](https://profile-counter.glitch.me/idadwind/count.svg) 
 
 ```csharp
 string[] me = new string[8]{
