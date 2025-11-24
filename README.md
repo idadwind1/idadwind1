@@ -19,42 +19,22 @@ nerdy counter alt:
 ```csharp
 string[] me = new string[8]{
     "multilingual developer",
-    "\"linux\" user",
-    "i use arch btw :3 (and ofc hyprland",
-    "vocaloid listener (based music fr)",
+    "linux user",
+    "i use arch btw :3 (with hyprland",
+    "listens to vocaloid",
     "favorite game -> oneshot (niko!)",
-    "also plays dr & ut (indeed)",
-    "minecraft and cs",
-    "pls dont bully me for my badass code ;("
+    "pls dont bully me for my shitty code ;("
 };
 ```
 
-> u might wonder why would i add an 1 after my github name. well believe it or not i had actually created one without this 1 but i forgot its password and i am not able to recover it cus i entered the wrong email when registering (ik im so fuckin dumb sometimes)
-> [here it is](https://github.com/IdadWind)
+> u might wonder how i add an 1 after my github name. well believe it or not i had actually created one without this 1 but i forgot its password and i am not able to recover it cus i put in the wrong email (ik im so fuckin dumb sometimes)
   
 ### My email:   
-■■■■■■■■■■■@gmail.com  
-uh so its not a very good idea to just expose my email like that so i deleted it  
-use this instead:  
-windemateran@duck.com  
-~~ik ppl can just check it using git history and i am too lazy to change that~~  
-~~who tf would be bored enough to spam me~~
+idadwind@gmail.com  
 
 ~~[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072910825254) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)~~  
-i dont use those social media anymore so whatever  
-(actually i do use x but i dont post stuff)  
-
-### what i do
-i fw...  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat&logo=cplusplus&logoColor=white)
-![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F1E05A?style=flat&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=shell&logoColor=black)
-its a bit outdated i now also write in java and rust and a lot other fun languages  
-i should provably get this changed another day
+i dont use facebook and instagram anymore so whatever  
+u may find me on twitter tho
 
 ### favorite music
 top 10 would be:
