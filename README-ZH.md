@@ -10,8 +10,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=00B7C3&lines=Console.WriteLine(%22Welcome!%22);Debug.Print+%22Welcome!%22;print(%22Welcome!%22);printf(%22Welcome!%22);echo+%22Welcome!%22;MsgBox(%22Welcome%22%2CvbOK);MessageBox.Show(%22Welcome!%22);Have+A+Good+Day!!)](https://git.io/typing-svg)  
 计数器：  
 ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)  
-很明显计数器没用了😭😭，计数器的提供商在2025年7月停止服务了，我记得之前是几千的访问  
-用了好几年的说没了就没了的说www
+没用了😭😭，计数器的提供商在2025年7月停止服务了，我记得之前是几千的访问  
 
 计数器++：
 <img src="https://profile-counter.deno.dev/idadwind1/count.svg" alt="idadwind :: Visitor's Count" />
@@ -19,34 +18,22 @@
 ```csharp
 string[] me = new string[8]{
     "多语言开发者",
-    "\"linux\"用户",
-    "i use arch btw :3 (and ofc hyprland",
+    "linux用户",
+    "i use arch btw :3 (and hyprland",
     "听术曲 (￣ω￣)",
     "最喜欢的游戏 -> oneshot (niko!)",
-    "还有三角符文 AND 传说之下 (感觉中文翻译没有英文有感觉（",
-    "mc 和 cs",
     "写的代码很傻逼别喷www"
 };
 ```
 
 > 别问为什么用户名后面有个1,问就是之前建的一个没有1的号密码忘了，邮件也填错了qwq
-> [这里](https://github.com/IdadWind)
   
 ### 邮件:   
-windemateran@duck.com
+idadwind@gmail.com
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072910825254) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdadWind) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-不怎么用这些发消息不回的
+facebook和instagram不用了，发消息不回的
 
-### 我会
-这些
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat&logo=cplusplus&logoColor=white)
-![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F1E05A?style=flat&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=shell&logoColor=black)
 
 ### 喜欢的音乐
 前十：
