@@ -27,8 +27,8 @@ string[] me = new string[8]{
 };
 ```
 
-> u might wonder how i add an 1 after my github name. well believe it or not i had actually created one without this 1 but i forgot its password and i am not able to recover it cus i put in the wrong email (ik im so fuckin dumb sometimes)
-  
+> u might wonder how i added an 1 after my github name. its becus i created IdadWind with the wrong email and i cannot access it anymore
+
 ### My email:   
 idadwind@gmail.com  
 
