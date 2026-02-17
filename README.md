@@ -27,7 +27,7 @@ string[] me = new string[8]{
 };
 ```
 
-> u might wonder how i added an 1 after my github name. its becus i created IdadWind with the wrong email and i cannot access it anymore
+> u might wonder how i added an 1 after my github name. i did create IdadWind but with the wrong email and i cannot access it anymore
 
 ### My email:   
 idadwind@gmail.com  
@@ -55,7 +55,7 @@ they are all very good creators u should def go check them out
 `#ffc0cb`
 
 ### preferred theme
-my favorite palette (that i literally use it everywhere):  
+my favorite palette (that i literally use everywhere):  
 [catppuccin](https://catppuccin.com/)
 
 ### useless stats
