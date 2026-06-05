@@ -11,7 +11,7 @@
 nerdy counter:  
 ![Visitor Count](https://profile-counter.glitch.me/WillamSun/count.svg)   
 appearently its not working anymore ;( the sevice was ended in july 2025  
-its like a few k visits previously
+it was like a few k visits previously
 
 nerdy counter alt:  
 <img src="https://profile-counter.deno.dev/idadwind1/count.svg" alt="idadwind :: Visitor's Count" />
@@ -27,7 +27,7 @@ string[] me = new string[8]{
 };
 ```
 
-> u might wonder how i added an 1 after my github name. i did create IdadWind but with the wrong email and i cannot access it anymore
+> u might wonder how i added an 1 after my github name. actually i did create IdadWind without the 1 but with the wrong email and i cannot access it anymore
 
 ### My email:   
 idadwind@gmail.com  
