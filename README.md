@@ -25,6 +25,11 @@ string[] me = new string[8]{
     "favorite game -> oneshot (niko!)",
     "pls dont bully me for my shitty code ;("
 };
+string [] supported_languages = new string[3]{
+    "en_US",
+    "zh_CN",
+    "ja_JP"
+}
 ```
 
 > u might wonder how i added an 1 after my github name. actually i did create IdadWind without the 1 but with the wrong email and i cannot access it anymore
